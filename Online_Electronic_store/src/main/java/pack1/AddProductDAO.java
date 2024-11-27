@@ -9,6 +9,7 @@ public class AddProductDAO
 {
  public int insertproduct(ProductBean pb) throws Exception
  {
+	 Sysgfwgsfws
 	 int rowcount=0;
 	 try
 	 {
